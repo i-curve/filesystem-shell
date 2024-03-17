@@ -1,16 +1,20 @@
 # filesystem-shell
 
-[filesystem](https://github.com/i-curve/filesystem) 的 shell 客户端, 使你像操纵命令行一样使用 filesystem
+[![GitHub Release](https://img.shields.io/github/v/release/i-curve/filesystem-shell)](https://github.com/i-curve/filesystem-shell/releases)
+[![GitHub Tag](https://img.shields.io/github/v/tag/i-curve/filesystem?label=filesystem)](https://github.com/i-curve/filesystem)
+[![GitHub Tag](https://img.shields.io/github/v/tag/i-curve/filesystem-gosdk?label=filesystem-gosdk)](https://github.com/i-curve/filesystem-gosdk)
+[![GitHub Tag](https://img.shields.io/github/v/tag/i-curve/filesystem-pysdk?label=filesystem-pysdk)](https://github.com/i-curve/filesystem-pysdk)
 
 <!-- TOC -->
 
 * [filesystem-shell](#filesystem-shell)
     * [I. 下载](#i-下载)
     * [II. 进行配置](#ii-进行配置)
-    * [III. 文件操作](#iii-文件操作)
-    * [IV. .](#iv-)
+    * [III. shell内操作](#iii-shell内操作)
 
 <!-- TOC -->
+
+[filesystem](https://github.com/i-curve/filesystem) 的 shell 客户端, 使你像操纵命令行一样使用 filesystem
 
 ## I. 下载
 
